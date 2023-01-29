@@ -6,7 +6,11 @@ In this project, I will be analyzing the the olympics dataset, which is a test/p
 
 
 Questions
+
 Top 10 successful countries considering various parameters.
+
 Gender based performance/Success
+
 Does geographical location & Edition determine success?
+
 The relationship between Economic parameter and success
